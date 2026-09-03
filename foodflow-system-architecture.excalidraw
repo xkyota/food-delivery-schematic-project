@@ -1,20 +1,20 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://excalidraw.com",
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
   "elements": [
     {
       "id": "canvas-background",
       "type": "rectangle",
-      "x": 0,
-      "y": 0,
+      "x": 0.10586261001532193,
+      "y": 0.003650434828159632,
       "width": 1920,
       "height": 1080,
       "angle": 0,
       "strokeColor": "#F8FAFC",
       "backgroundColor": "#F8FAFC",
       "fillStyle": "solid",
-      "strokeWidth": 0,
+      "strokeWidth": 2,
       "strokeStyle": "solid",
       "roughness": 0,
       "opacity": 100,
@@ -22,13 +22,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1958209727,
-      "version": 1,
-      "versionNonce": 3251877,
+      "version": 3,
+      "versionNonce": 662215415,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423231964,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a0"
     },
     {
       "id": "boundary-clients",
@@ -51,13 +52,14 @@
         "type": 3
       },
       "seed": 25274379,
-      "version": 1,
-      "versionNonce": 1847010161,
+      "version": 2,
+      "versionNonce": 1991606871,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a1"
     },
     {
       "id": "boundary-clients-label",
@@ -78,11 +80,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1124892130,
-      "version": 1,
-      "versionNonce": 134221437,
+      "version": 2,
+      "versionNonce": 454800025,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 15,
@@ -93,7 +95,8 @@
       "containerId": null,
       "originalText": "PUBLIC CLIENTS",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a2"
     },
     {
       "id": "boundary-edge",
@@ -116,13 +119,14 @@
         "type": 3
       },
       "seed": 518410137,
-      "version": 1,
-      "versionNonce": 249630271,
+      "version": 2,
+      "versionNonce": 2074156919,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a3"
     },
     {
       "id": "boundary-edge-label",
@@ -143,11 +147,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 486263076,
-      "version": 1,
-      "versionNonce": 741354611,
+      "version": 2,
+      "versionNonce": 1645999993,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 15,
@@ -158,7 +162,8 @@
       "containerId": null,
       "originalText": "INTERNET-FACING EDGE / TLS BOUNDARY",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a4"
     },
     {
       "id": "boundary-platform",
@@ -181,13 +186,14 @@
         "type": 3
       },
       "seed": 1860857322,
-      "version": 1,
-      "versionNonce": 455195141,
+      "version": 2,
+      "versionNonce": 1465653399,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a5"
     },
     {
       "id": "boundary-platform-label",
@@ -208,11 +214,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 202179733,
-      "version": 1,
-      "versionNonce": 1957860831,
+      "version": 2,
+      "versionNonce": 1853923417,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 15,
@@ -223,7 +229,8 @@
       "containerId": null,
       "originalText": "PRIVATE PLATFORM NETWORK",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a6"
     },
     {
       "id": "boundary-external",
@@ -246,13 +253,14 @@
         "type": 3
       },
       "seed": 721056494,
-      "version": 1,
-      "versionNonce": 1314035646,
+      "version": 2,
+      "versionNonce": 798682551,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a7"
     },
     {
       "id": "boundary-external-label",
@@ -273,11 +281,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 212174755,
-      "version": 1,
-      "versionNonce": 978646678,
+      "version": 2,
+      "versionNonce": 1578970425,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 15,
@@ -288,7 +296,8 @@
       "containerId": null,
       "originalText": "THIRD-PARTY TRUST BOUNDARY",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a8"
     },
     {
       "id": "arrow-customer-api",
@@ -309,11 +318,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1704461362,
-      "version": 1,
-      "versionNonce": 33722550,
+      "version": 2,
+      "versionNonce": 2139234007,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -338,7 +347,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "a9"
     },
     {
       "id": "arrow-restaurant-api",
@@ -359,11 +369,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 991930037,
-      "version": 1,
-      "versionNonce": 1840696005,
+      "version": 2,
+      "versionNonce": 1213537817,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -380,7 +390,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aA"
     },
     {
       "id": "arrow-courier-api",
@@ -401,11 +412,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1594210156,
-      "version": 1,
-      "versionNonce": 945083829,
+      "version": 2,
+      "versionNonce": 1772497911,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -430,7 +441,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aB"
     },
     {
       "id": "arrow-realtime-clients",
@@ -451,11 +463,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 548381146,
-      "version": 1,
-      "versionNonce": 344698635,
+      "version": 2,
+      "versionNonce": 203158265,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -480,7 +492,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": "arrow",
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aC"
     },
     {
       "id": "arrow-identity-gateway",
@@ -501,11 +514,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1871712787,
-      "version": 1,
-      "versionNonce": 366467628,
+      "version": 2,
+      "versionNonce": 1242273047,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -522,7 +535,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aD"
     },
     {
       "id": "arrow-api-catalog",
@@ -543,11 +557,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1556220447,
-      "version": 1,
-      "versionNonce": 1915741789,
+      "version": 2,
+      "versionNonce": 1576348633,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -572,7 +586,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aE"
     },
     {
       "id": "arrow-api-order",
@@ -593,11 +608,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 936557107,
-      "version": 1,
-      "versionNonce": 1316756353,
+      "version": 2,
+      "versionNonce": 136763959,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -614,7 +629,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aF"
     },
     {
       "id": "arrow-ws-tracking",
@@ -635,11 +651,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 223834949,
-      "version": 1,
-      "versionNonce": 440292085,
+      "version": 2,
+      "versionNonce": 368330937,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -664,7 +680,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": "arrow",
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aG"
     },
     {
       "id": "arrow-catalog-order",
@@ -685,11 +702,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1930523787,
-      "version": 1,
-      "versionNonce": 1879009856,
+      "version": 2,
+      "versionNonce": 685538135,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -706,7 +723,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aH"
     },
     {
       "id": "arrow-order-payment",
@@ -727,11 +745,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1534162680,
-      "version": 1,
-      "versionNonce": 848893193,
+      "version": 2,
+      "versionNonce": 1035782553,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -748,7 +766,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aI"
     },
     {
       "id": "arrow-order-postgres",
@@ -769,11 +788,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 775728499,
-      "version": 1,
-      "versionNonce": 697032188,
+      "version": 2,
+      "versionNonce": 545323127,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -798,7 +817,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aJ"
     },
     {
       "id": "arrow-dispatch-postgis",
@@ -819,11 +839,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 502954072,
-      "version": 1,
-      "versionNonce": 150579155,
+      "version": 2,
+      "versionNonce": 1585589881,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -840,7 +860,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aK"
     },
     {
       "id": "arrow-tracking-redis",
@@ -861,11 +882,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1482376264,
-      "version": 1,
-      "versionNonce": 499774977,
+      "version": 2,
+      "versionNonce": 1691931031,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -882,7 +903,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aL"
     },
     {
       "id": "arrow-order-events",
@@ -903,11 +925,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1482177142,
-      "version": 1,
-      "versionNonce": 1724891059,
+      "version": 2,
+      "versionNonce": 252180313,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -936,7 +958,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aM"
     },
     {
       "id": "arrow-events-dispatch",
@@ -957,11 +980,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 148115035,
-      "version": 1,
-      "versionNonce": 1663186252,
+      "version": 2,
+      "versionNonce": 1058571959,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -986,7 +1009,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aN"
     },
     {
       "id": "arrow-events-notify",
@@ -1007,11 +1031,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 111435585,
-      "version": 1,
-      "versionNonce": 451916282,
+      "version": 2,
+      "versionNonce": 1101112377,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -1028,7 +1052,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aO"
     },
     {
       "id": "arrow-payment-provider",
@@ -1049,11 +1074,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 69987255,
-      "version": 1,
-      "versionNonce": 149826348,
+      "version": 2,
+      "versionNonce": 1575262167,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -1070,7 +1095,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aP"
     },
     {
       "id": "arrow-maps-provider",
@@ -1091,11 +1117,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 884881915,
-      "version": 1,
-      "versionNonce": 1819207140,
+      "version": 2,
+      "versionNonce": 1379054873,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -1128,7 +1154,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aQ"
     },
     {
       "id": "arrow-message-provider",
@@ -1149,11 +1176,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 220170362,
-      "version": 1,
-      "versionNonce": 1030746626,
+      "version": 2,
+      "versionNonce": 659653879,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -1178,7 +1205,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "index": "aR"
     },
     {
       "id": "title",
@@ -1199,11 +1227,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 867999238,
-      "version": 1,
-      "versionNonce": 1236653439,
+      "version": 2,
+      "versionNonce": 1412344313,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 34,
@@ -1214,7 +1242,8 @@
       "containerId": null,
       "originalText": "FoodFlow — System Architecture",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aS"
     },
     {
       "id": "subtitle",
@@ -1235,11 +1264,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 687252606,
-      "version": 1,
-      "versionNonce": 197843556,
+      "version": 2,
+      "versionNonce": 1256443415,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -1250,7 +1279,8 @@
       "containerId": null,
       "originalText": "Food Delivery & Courier Dispatch Platform  •  High-level logical view",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aT"
     },
     {
       "id": "legend-sync-line",
@@ -1271,11 +1301,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 131568165,
-      "version": 1,
-      "versionNonce": 330769040,
+      "version": 2,
+      "versionNonce": 546898649,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -1292,7 +1322,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "index": "aU"
     },
     {
       "id": "legend-sync-text",
@@ -1313,11 +1344,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1933559257,
-      "version": 1,
-      "versionNonce": 1614528722,
+      "version": 2,
+      "versionNonce": 328201015,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -1328,7 +1359,8 @@
       "containerId": null,
       "originalText": "Synchronous API",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aV"
     },
     {
       "id": "legend-events-line",
@@ -1349,11 +1381,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1860400881,
-      "version": 1,
-      "versionNonce": 1893287915,
+      "version": 2,
+      "versionNonce": 604323769,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -1370,7 +1402,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "index": "aW"
     },
     {
       "id": "legend-events-text",
@@ -1391,11 +1424,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1780233884,
-      "version": 1,
-      "versionNonce": 1140845573,
+      "version": 2,
+      "versionNonce": 2042262615,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -1406,7 +1439,8 @@
       "containerId": null,
       "originalText": "Domain events",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aX"
     },
     {
       "id": "legend-live-line",
@@ -1427,11 +1461,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1350887136,
-      "version": 1,
-      "versionNonce": 1916628649,
+      "version": 2,
+      "versionNonce": 1821827225,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -1448,7 +1482,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "index": "aY"
     },
     {
       "id": "legend-live-text",
@@ -1469,11 +1504,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1320534343,
-      "version": 1,
-      "versionNonce": 1108075856,
+      "version": 2,
+      "versionNonce": 1966592375,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -1484,7 +1519,8 @@
       "containerId": null,
       "originalText": "Real-time stream",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aZ"
     },
     {
       "id": "legend-third-line",
@@ -1505,11 +1541,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1565641188,
-      "version": 1,
-      "versionNonce": 44747922,
+      "version": 2,
+      "versionNonce": 2013357433,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "points": [
@@ -1526,7 +1562,8 @@
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": null
+      "endArrowhead": null,
+      "index": "aa"
     },
     {
       "id": "legend-third-text",
@@ -1547,11 +1584,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 443469633,
-      "version": 1,
-      "versionNonce": 375974015,
+      "version": 2,
+      "versionNonce": 256674455,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -1562,7 +1599,8 @@
       "containerId": null,
       "originalText": "External integration",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ab"
     },
     {
       "id": "card-customer",
@@ -1587,13 +1625,14 @@
         "type": 3
       },
       "seed": 1972352927,
-      "version": 1,
-      "versionNonce": 44725698,
+      "version": 2,
+      "versionNonce": 1099451993,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ac"
     },
     {
       "id": "card-customer-title",
@@ -1616,11 +1655,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1876134198,
-      "version": 1,
-      "versionNonce": 577697114,
+      "version": 2,
+      "versionNonce": 883761079,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -1631,7 +1670,8 @@
       "containerId": null,
       "originalText": "Customer Mobile App",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ad"
     },
     {
       "id": "card-customer-body",
@@ -1654,11 +1694,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1128198746,
-      "version": 1,
-      "versionNonce": 500306256,
+      "version": 2,
+      "versionNonce": 268376889,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -1669,7 +1709,8 @@
       "containerId": null,
       "originalText": "Browse • Checkout • Live order tracking",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ae"
     },
     {
       "id": "card-customer-tag-bg",
@@ -1694,13 +1735,14 @@
         "type": 3
       },
       "seed": 1277702930,
-      "version": 1,
-      "versionNonce": 1079362901,
+      "version": 2,
+      "versionNonce": 1199444183,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "af"
     },
     {
       "id": "card-customer-tag",
@@ -1723,11 +1765,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1645171142,
-      "version": 1,
-      "versionNonce": 854370081,
+      "version": 2,
+      "versionNonce": 63523865,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 11,
@@ -1738,7 +1780,8 @@
       "containerId": null,
       "originalText": "React Native",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ag"
     },
     {
       "id": "card-restaurant",
@@ -1763,13 +1806,14 @@
         "type": 3
       },
       "seed": 866941012,
-      "version": 1,
-      "versionNonce": 1366515682,
+      "version": 2,
+      "versionNonce": 1901321719,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ah"
     },
     {
       "id": "card-restaurant-title",
@@ -1792,11 +1836,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 172508848,
-      "version": 1,
-      "versionNonce": 1587086067,
+      "version": 2,
+      "versionNonce": 1692033273,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -1807,7 +1851,8 @@
       "containerId": null,
       "originalText": "Restaurant Portal",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ai"
     },
     {
       "id": "card-restaurant-body",
@@ -1830,11 +1875,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1420148918,
-      "version": 1,
-      "versionNonce": 445543052,
+      "version": 2,
+      "versionNonce": 892536599,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -1845,7 +1890,8 @@
       "containerId": null,
       "originalText": "Menu operations • Accept • Prepare • Ready",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aj"
     },
     {
       "id": "card-restaurant-tag-bg",
@@ -1870,13 +1916,14 @@
         "type": 3
       },
       "seed": 1466254727,
-      "version": 1,
-      "versionNonce": 1705187355,
+      "version": 2,
+      "versionNonce": 817224153,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ak"
     },
     {
       "id": "card-restaurant-tag",
@@ -1899,11 +1946,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 411965881,
-      "version": 1,
-      "versionNonce": 603639419,
+      "version": 2,
+      "versionNonce": 1099959351,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 11,
@@ -1914,7 +1961,8 @@
       "containerId": null,
       "originalText": "Next.js",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "al"
     },
     {
       "id": "card-courier",
@@ -1939,13 +1987,14 @@
         "type": 3
       },
       "seed": 1518053239,
-      "version": 1,
-      "versionNonce": 1356641604,
+      "version": 2,
+      "versionNonce": 1752118969,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "am"
     },
     {
       "id": "card-courier-title",
@@ -1968,11 +2017,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 241322175,
-      "version": 1,
-      "versionNonce": 1739994880,
+      "version": 2,
+      "versionNonce": 38759767,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -1983,7 +2032,8 @@
       "containerId": null,
       "originalText": "Courier Mobile App",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "an"
     },
     {
       "id": "card-courier-body",
@@ -2006,11 +2056,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1167339300,
-      "version": 1,
-      "versionNonce": 955128574,
+      "version": 2,
+      "versionNonce": 514455449,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -2021,7 +2071,8 @@
       "containerId": null,
       "originalText": "Offers • Navigation • Status • GPS updates",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ao"
     },
     {
       "id": "card-courier-tag-bg",
@@ -2046,13 +2097,14 @@
         "type": 3
       },
       "seed": 654648280,
-      "version": 1,
-      "versionNonce": 1059429440,
+      "version": 2,
+      "versionNonce": 1925556855,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ap"
     },
     {
       "id": "card-courier-tag",
@@ -2075,11 +2127,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 193411519,
-      "version": 1,
-      "versionNonce": 1656425952,
+      "version": 2,
+      "versionNonce": 1167694969,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 11,
@@ -2090,7 +2142,8 @@
       "containerId": null,
       "originalText": "React Native",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aq"
     },
     {
       "id": "card-identity",
@@ -2115,13 +2168,14 @@
         "type": 3
       },
       "seed": 1489486371,
-      "version": 1,
-      "versionNonce": 1084156049,
+      "version": 2,
+      "versionNonce": 800539543,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ar"
     },
     {
       "id": "card-identity-title",
@@ -2144,11 +2198,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1467242869,
-      "version": 1,
-      "versionNonce": 1542026599,
+      "version": 2,
+      "versionNonce": 1023518041,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -2159,7 +2213,8 @@
       "containerId": null,
       "originalText": "Identity & Access",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "as"
     },
     {
       "id": "card-identity-body",
@@ -2182,11 +2237,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 607955432,
-      "version": 1,
-      "versionNonce": 711895764,
+      "version": 2,
+      "versionNonce": 1230551223,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -2197,7 +2252,8 @@
       "containerId": null,
       "originalText": "OIDC / OAuth2 • RBAC • Short-lived tokens",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "at"
     },
     {
       "id": "card-gateway",
@@ -2222,13 +2278,14 @@
         "type": 3
       },
       "seed": 1606102320,
-      "version": 1,
-      "versionNonce": 1744361705,
+      "version": 2,
+      "versionNonce": 540381753,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "au"
     },
     {
       "id": "card-gateway-title",
@@ -2251,11 +2308,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1845588459,
-      "version": 1,
-      "versionNonce": 46202167,
+      "version": 2,
+      "versionNonce": 1431210455,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -2266,7 +2323,8 @@
       "containerId": null,
       "originalText": "API Gateway / BFF",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "av"
     },
     {
       "id": "card-gateway-body",
@@ -2289,11 +2347,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 347648031,
-      "version": 1,
-      "versionNonce": 1366697783,
+      "version": 2,
+      "versionNonce": 1410917145,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -2304,7 +2362,8 @@
       "containerId": null,
       "originalText": "HTTPS REST • Validation • Rate limits",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aw"
     },
     {
       "id": "card-realtime",
@@ -2329,13 +2388,14 @@
         "type": 3
       },
       "seed": 979615612,
-      "version": 1,
-      "versionNonce": 487325136,
+      "version": 2,
+      "versionNonce": 1085093623,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ax"
     },
     {
       "id": "card-realtime-title",
@@ -2358,11 +2418,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1813017496,
-      "version": 1,
-      "versionNonce": 387366855,
+      "version": 2,
+      "versionNonce": 1428101113,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -2373,7 +2433,8 @@
       "containerId": null,
       "originalText": "Realtime Gateway",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ay"
     },
     {
       "id": "card-realtime-body",
@@ -2396,11 +2457,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 184356624,
-      "version": 1,
-      "versionNonce": 378533892,
+      "version": 2,
+      "versionNonce": 1643724823,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -2411,7 +2472,8 @@
       "containerId": null,
       "originalText": "WebSocket • Subscriptions • Reconnect",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "az"
     },
     {
       "id": "card-catalog",
@@ -2436,13 +2498,14 @@
         "type": 3
       },
       "seed": 821705283,
-      "version": 1,
-      "versionNonce": 122550753,
+      "version": 2,
+      "versionNonce": 1162588377,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b00"
     },
     {
       "id": "card-catalog-title",
@@ -2465,11 +2528,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1104460575,
-      "version": 1,
-      "versionNonce": 770446561,
+      "version": 2,
+      "versionNonce": 1260856631,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -2480,7 +2543,8 @@
       "containerId": null,
       "originalText": "Restaurant & Catalog",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b01"
     },
     {
       "id": "card-catalog-body",
@@ -2503,11 +2567,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 406629768,
-      "version": 1,
-      "versionNonce": 1196163710,
+      "version": 2,
+      "versionNonce": 976367033,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -2518,7 +2582,8 @@
       "containerId": null,
       "originalText": "Restaurant profiles, menus, availability and price snapshots",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b02"
     },
     {
       "id": "card-orders",
@@ -2543,13 +2608,14 @@
         "type": 3
       },
       "seed": 78982040,
-      "version": 1,
-      "versionNonce": 1863149506,
+      "version": 2,
+      "versionNonce": 1536910935,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b03"
     },
     {
       "id": "card-orders-title",
@@ -2572,11 +2638,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1569477271,
-      "version": 1,
-      "versionNonce": 763524630,
+      "version": 2,
+      "versionNonce": 1257639577,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -2587,7 +2653,8 @@
       "containerId": null,
       "originalText": "Order Orchestrator",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b04"
     },
     {
       "id": "card-orders-body",
@@ -2610,11 +2677,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 197021553,
-      "version": 1,
-      "versionNonce": 591434124,
+      "version": 2,
+      "versionNonce": 304776055,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -2625,7 +2692,8 @@
       "containerId": null,
       "originalText": "Order state machine • Saga / compensation • Audit trail",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b05"
     },
     {
       "id": "card-orders-tag-bg",
@@ -2650,13 +2718,14 @@
         "type": 3
       },
       "seed": 508138496,
-      "version": 1,
-      "versionNonce": 312418328,
+      "version": 2,
+      "versionNonce": 1581962105,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b06"
     },
     {
       "id": "card-orders-tag",
@@ -2679,11 +2748,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 835585367,
-      "version": 1,
-      "versionNonce": 658642691,
+      "version": 2,
+      "versionNonce": 521731223,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 11,
@@ -2694,7 +2763,8 @@
       "containerId": null,
       "originalText": "Core",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b07"
     },
     {
       "id": "card-payments",
@@ -2719,13 +2789,14 @@
         "type": 3
       },
       "seed": 6143707,
-      "version": 1,
-      "versionNonce": 1103446598,
+      "version": 2,
+      "versionNonce": 947125337,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b08"
     },
     {
       "id": "card-payments-title",
@@ -2748,11 +2819,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1662810180,
-      "version": 1,
-      "versionNonce": 212986019,
+      "version": 2,
+      "versionNonce": 907760055,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -2763,7 +2834,8 @@
       "containerId": null,
       "originalText": "Payment Service",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b09"
     },
     {
       "id": "card-payments-body",
@@ -2786,11 +2858,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1772239837,
-      "version": 1,
-      "versionNonce": 1974241292,
+      "version": 2,
+      "versionNonce": 1229261113,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -2801,7 +2873,8 @@
       "containerId": null,
       "originalText": "Authorize, capture, refund • Idempotency • Reconciliation",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0A"
     },
     {
       "id": "card-dispatch",
@@ -2826,13 +2899,14 @@
         "type": 3
       },
       "seed": 1187357479,
-      "version": 1,
-      "versionNonce": 1207769528,
+      "version": 2,
+      "versionNonce": 542507735,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0B"
     },
     {
       "id": "card-dispatch-title",
@@ -2855,11 +2929,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 777168167,
-      "version": 1,
-      "versionNonce": 499994548,
+      "version": 2,
+      "versionNonce": 975272473,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -2870,7 +2944,8 @@
       "containerId": null,
       "originalText": "Dispatch & Delivery",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0C"
     },
     {
       "id": "card-dispatch-body",
@@ -2893,11 +2968,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 728444755,
-      "version": 1,
-      "versionNonce": 11562371,
+      "version": 2,
+      "versionNonce": 241012727,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -2908,7 +2983,8 @@
       "containerId": null,
       "originalText": "Nearby couriers • Offer lifecycle • ETA-aware assignment",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0D"
     },
     {
       "id": "card-tracking",
@@ -2933,13 +3009,14 @@
         "type": 3
       },
       "seed": 960427036,
-      "version": 1,
-      "versionNonce": 230636528,
+      "version": 2,
+      "versionNonce": 1006423801,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0E"
     },
     {
       "id": "card-tracking-title",
@@ -2962,11 +3039,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1472939605,
-      "version": 1,
-      "versionNonce": 396024429,
+      "version": 2,
+      "versionNonce": 708213015,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -2977,7 +3054,8 @@
       "containerId": null,
       "originalText": "Tracking Service",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0F"
     },
     {
       "id": "card-tracking-body",
@@ -3000,11 +3078,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1820256854,
-      "version": 1,
-      "versionNonce": 1197007147,
+      "version": 2,
+      "versionNonce": 358254553,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -3015,7 +3093,8 @@
       "containerId": null,
       "originalText": "Ingest GPS • Last-known location • Order status stream",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0G"
     },
     {
       "id": "card-notifications",
@@ -3040,13 +3119,14 @@
         "type": 3
       },
       "seed": 781612206,
-      "version": 1,
-      "versionNonce": 1027056437,
+      "version": 2,
+      "versionNonce": 1767194167,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0H"
     },
     {
       "id": "card-notifications-title",
@@ -3069,11 +3149,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 759244774,
-      "version": 1,
-      "versionNonce": 898197747,
+      "version": 2,
+      "versionNonce": 1884169401,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -3084,7 +3164,8 @@
       "containerId": null,
       "originalText": "Notification Service",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0I"
     },
     {
       "id": "card-notifications-body",
@@ -3107,11 +3188,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 152261862,
-      "version": 1,
-      "versionNonce": 905085297,
+      "version": 2,
+      "versionNonce": 513695575,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -3122,7 +3203,8 @@
       "containerId": null,
       "originalText": "Push / SMS / email • Templates • Delivery status",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0J"
     },
     {
       "id": "data-label",
@@ -3143,11 +3225,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 915188477,
-      "version": 1,
-      "versionNonce": 1784773552,
+      "version": 2,
+      "versionNonce": 1752901017,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 12,
@@ -3158,7 +3240,8 @@
       "containerId": null,
       "originalText": "MANAGED DATA & MESSAGING",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0K"
     },
     {
       "id": "data-postgres",
@@ -3183,13 +3266,14 @@
         "type": 3
       },
       "seed": 1813515485,
-      "version": 1,
-      "versionNonce": 816440434,
+      "version": 2,
+      "versionNonce": 1281776759,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0L"
     },
     {
       "id": "data-postgres-title",
@@ -3212,11 +3296,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 915844089,
-      "version": 1,
-      "versionNonce": 1355465850,
+      "version": 2,
+      "versionNonce": 1494551161,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 18,
@@ -3227,7 +3311,8 @@
       "containerId": null,
       "originalText": "PostgreSQL + PostGIS",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0M"
     },
     {
       "id": "data-postgres-body",
@@ -3250,11 +3335,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 812244186,
-      "version": 1,
-      "versionNonce": 694604695,
+      "version": 2,
+      "versionNonce": 913421719,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 12,
@@ -3265,7 +3350,8 @@
       "containerId": null,
       "originalText": "System of record • Transactions • Geospatial index",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0N"
     },
     {
       "id": "data-redis",
@@ -3290,13 +3376,14 @@
         "type": 3
       },
       "seed": 1801116009,
-      "version": 1,
-      "versionNonce": 252097051,
+      "version": 2,
+      "versionNonce": 1793020761,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0O"
     },
     {
       "id": "data-redis-title",
@@ -3319,11 +3406,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 675317648,
-      "version": 1,
-      "versionNonce": 321374775,
+      "version": 2,
+      "versionNonce": 871688887,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 18,
@@ -3334,7 +3421,8 @@
       "containerId": null,
       "originalText": "Redis",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0P"
     },
     {
       "id": "data-redis-body",
@@ -3357,11 +3445,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 146555615,
-      "version": 1,
-      "versionNonce": 68217146,
+      "version": 2,
+      "versionNonce": 1647149113,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 12,
@@ -3372,7 +3460,8 @@
       "containerId": null,
       "originalText": "Cache • Sessions • Live courier positions",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0Q"
     },
     {
       "id": "data-events",
@@ -3397,13 +3486,14 @@
         "type": 3
       },
       "seed": 1771029651,
-      "version": 1,
-      "versionNonce": 1681940104,
+      "version": 2,
+      "versionNonce": 1100250071,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0R"
     },
     {
       "id": "data-events-title",
@@ -3426,11 +3516,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 36277564,
-      "version": 1,
-      "versionNonce": 1401400364,
+      "version": 2,
+      "versionNonce": 753078553,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 18,
@@ -3441,7 +3531,8 @@
       "containerId": null,
       "originalText": "Event Bus",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0S"
     },
     {
       "id": "data-events-body",
@@ -3464,11 +3555,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1420695173,
-      "version": 1,
-      "versionNonce": 511211616,
+      "version": 2,
+      "versionNonce": 1399122167,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 12,
@@ -3479,7 +3570,8 @@
       "containerId": null,
       "originalText": "Kafka / RabbitMQ • Durable workflows • DLQ",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0T"
     },
     {
       "id": "card-pay-provider",
@@ -3504,13 +3596,14 @@
         "type": 3
       },
       "seed": 1346955682,
-      "version": 1,
-      "versionNonce": 1546856012,
+      "version": 2,
+      "versionNonce": 812877305,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0U"
     },
     {
       "id": "card-pay-provider-title",
@@ -3533,11 +3626,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1147751836,
-      "version": 1,
-      "versionNonce": 1627361097,
+      "version": 2,
+      "versionNonce": 1726657047,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -3548,7 +3641,8 @@
       "containerId": null,
       "originalText": "Payment Provider",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0V"
     },
     {
       "id": "card-pay-provider-body",
@@ -3571,11 +3665,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1188202845,
-      "version": 1,
-      "versionNonce": 1566303450,
+      "version": 2,
+      "versionNonce": 1474453209,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -3586,7 +3680,8 @@
       "containerId": null,
       "originalText": "Tokenized card data • Webhooks",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0W"
     },
     {
       "id": "card-pay-provider-tag-bg",
@@ -3611,13 +3706,14 @@
         "type": 3
       },
       "seed": 155895960,
-      "version": 1,
-      "versionNonce": 1830708668,
+      "version": 2,
+      "versionNonce": 1427789623,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0X"
     },
     {
       "id": "card-pay-provider-tag",
@@ -3640,11 +3736,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 31283247,
-      "version": 1,
-      "versionNonce": 1112908347,
+      "version": 2,
+      "versionNonce": 1640176569,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 11,
@@ -3655,7 +3751,8 @@
       "containerId": null,
       "originalText": "e.g. Stripe",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0Y"
     },
     {
       "id": "card-maps-provider",
@@ -3680,13 +3777,14 @@
         "type": 3
       },
       "seed": 859408942,
-      "version": 1,
-      "versionNonce": 1579825336,
+      "version": 2,
+      "versionNonce": 1683511383,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0Z"
     },
     {
       "id": "card-maps-provider-title",
@@ -3709,11 +3807,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1981241783,
-      "version": 1,
-      "versionNonce": 1228100097,
+      "version": 2,
+      "versionNonce": 1849244825,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -3724,7 +3822,8 @@
       "containerId": null,
       "originalText": "Maps Platform",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0a"
     },
     {
       "id": "card-maps-provider-body",
@@ -3747,11 +3846,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 57234487,
-      "version": 1,
-      "versionNonce": 405674134,
+      "version": 2,
+      "versionNonce": 444151159,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -3762,7 +3861,8 @@
       "containerId": null,
       "originalText": "Geocoding • Routes • ETA matrix",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0b"
     },
     {
       "id": "card-maps-provider-tag-bg",
@@ -3787,13 +3887,14 @@
         "type": 3
       },
       "seed": 1953338726,
-      "version": 1,
-      "versionNonce": 958916936,
+      "version": 2,
+      "versionNonce": 1291338105,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0c"
     },
     {
       "id": "card-maps-provider-tag",
@@ -3816,11 +3917,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1338864185,
-      "version": 1,
-      "versionNonce": 331680508,
+      "version": 2,
+      "versionNonce": 1321299607,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 11,
@@ -3831,7 +3932,8 @@
       "containerId": null,
       "originalText": "Maps API",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0d"
     },
     {
       "id": "card-message-provider",
@@ -3856,13 +3958,14 @@
         "type": 3
       },
       "seed": 980110537,
-      "version": 1,
-      "versionNonce": 1854430509,
+      "version": 2,
+      "versionNonce": 188983897,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0e"
     },
     {
       "id": "card-message-provider-title",
@@ -3885,11 +3988,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1928705103,
-      "version": 1,
-      "versionNonce": 535943327,
+      "version": 2,
+      "versionNonce": 2078639031,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 21,
@@ -3900,7 +4003,8 @@
       "containerId": null,
       "originalText": "Messaging Providers",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0f"
     },
     {
       "id": "card-message-provider-body",
@@ -3923,11 +4027,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 673530637,
-      "version": 1,
-      "versionNonce": 1285356693,
+      "version": 2,
+      "versionNonce": 1106179897,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -3938,7 +4042,8 @@
       "containerId": null,
       "originalText": "Push • SMS • Email",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0g"
     },
     {
       "id": "external-policy",
@@ -3959,11 +4064,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 305876776,
-      "version": 1,
-      "versionNonce": 302337073,
+      "version": 2,
+      "versionNonce": 1376384215,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -3974,7 +4079,8 @@
       "containerId": null,
       "originalText": "Outbound policy\n\n• strict timeouts\n• exponential backoff\n• circuit breakers\n• signed webhook validation\n• provider-specific idempotency",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0h"
     },
     {
       "id": "label-https",
@@ -3995,11 +4101,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 342911700,
-      "version": 1,
-      "versionNonce": 195757820,
+      "version": 2,
+      "versionNonce": 593340441,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 12,
@@ -4010,7 +4116,8 @@
       "containerId": null,
       "originalText": "HTTPS / REST",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0i"
     },
     {
       "id": "label-live",
@@ -4031,11 +4138,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 970286714,
-      "version": 1,
-      "versionNonce": 209579449,
+      "version": 2,
+      "versionNonce": 147014135,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 12,
@@ -4046,7 +4153,8 @@
       "containerId": null,
       "originalText": "WebSocket live state + GPS",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0j"
     },
     {
       "id": "label-command",
@@ -4067,11 +4175,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1674163641,
-      "version": 1,
-      "versionNonce": 135667705,
+      "version": 2,
+      "versionNonce": 1233337593,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 12,
@@ -4082,7 +4190,8 @@
       "containerId": null,
       "originalText": "commands / queries",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0k"
     },
     {
       "id": "label-events",
@@ -4103,11 +4212,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1703359918,
-      "version": 1,
-      "versionNonce": 334072948,
+      "version": 2,
+      "versionNonce": 1897261847,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 12,
@@ -4118,7 +4227,8 @@
       "containerId": null,
       "originalText": "domain events",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0l"
     },
     {
       "id": "flow-strip",
@@ -4141,13 +4251,14 @@
         "type": 3
       },
       "seed": 257728057,
-      "version": 1,
-      "versionNonce": 1212127878,
+      "version": 2,
+      "versionNonce": 1138963929,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0m"
     },
     {
       "id": "flow-title",
@@ -4168,11 +4279,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 538421241,
-      "version": 1,
-      "versionNonce": 261736384,
+      "version": 2,
+      "versionNonce": 1198944311,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -4183,7 +4294,8 @@
       "containerId": null,
       "originalText": "PRIMARY ORDER FLOW",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0n"
     },
     {
       "id": "flow-steps",
@@ -4204,11 +4316,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 62667014,
-      "version": 1,
-      "versionNonce": 1240458938,
+      "version": 2,
+      "versionNonce": 1704006329,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 15,
@@ -4219,7 +4331,8 @@
       "containerId": null,
       "originalText": "1  Browse & checkout   →   2  Persist order   →   3  Authorize payment   →   4  Dispatch event   →   5  Match by location + ETA   →   6  Stream GPS   →   7  Deliver, notify & reconcile",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0o"
     },
     {
       "id": "security-strip",
@@ -4242,13 +4355,14 @@
         "type": 3
       },
       "seed": 1006103891,
-      "version": 1,
-      "versionNonce": 8271284,
+      "version": 2,
+      "versionNonce": 1170821463,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0p"
     },
     {
       "id": "security-title",
@@ -4269,11 +4383,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 245500208,
-      "version": 1,
-      "versionNonce": 735157555,
+      "version": 2,
+      "versionNonce": 1395676057,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 15,
@@ -4284,7 +4398,8 @@
       "containerId": null,
       "originalText": "SECURITY BY DESIGN",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0q"
     },
     {
       "id": "security-body",
@@ -4305,11 +4420,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 43461555,
-      "version": 1,
-      "versionNonce": 690329016,
+      "version": 2,
+      "versionNonce": 1969426039,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -4320,7 +4435,8 @@
       "containerId": null,
       "originalText": "TLS everywhere • OIDC/OAuth2 • RBAC + ownership checks • WAF/rate limits • encryption + secrets • audit logs • minimal courier-visible PII",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0r"
     },
     {
       "id": "reliability-strip",
@@ -4343,13 +4459,14 @@
         "type": 3
       },
       "seed": 1814717665,
-      "version": 1,
-      "versionNonce": 1193497520,
+      "version": 2,
+      "versionNonce": 1358198905,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0s"
     },
     {
       "id": "reliability-title",
@@ -4370,11 +4487,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1838253988,
-      "version": 1,
-      "versionNonce": 1141973031,
+      "version": 2,
+      "versionNonce": 1091053463,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 15,
@@ -4385,7 +4502,8 @@
       "containerId": null,
       "originalText": "RELIABILITY & OBSERVABILITY",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0t"
     },
     {
       "id": "reliability-body",
@@ -4406,11 +4524,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1197067342,
-      "version": 1,
-      "versionNonce": 1215579487,
+      "version": 2,
+      "versionNonce": 1352728921,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788340000000,
+      "boundElements": [],
+      "updated": 1788423225670,
       "link": null,
       "locked": false,
       "fontSize": 14,
@@ -4421,15 +4539,15 @@
       "containerId": null,
       "originalText": "Idempotency keys • transactional outbox/inbox • retries + DLQ/replay • saga compensation • DB backups/replicas • OpenTelemetry logs, metrics, traces + alerting",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0u"
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
     "gridStep": 5,
     "gridModeEnabled": false,
-    "viewBackgroundColor": "#F8FAFC",
-    "currentItemFontFamily": 2
+    "viewBackgroundColor": "#F8FAFC"
   },
   "files": {}
 }
