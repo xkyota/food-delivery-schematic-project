@@ -1,0 +1,390 @@
+{"kind":"deck","id":"pr/6xslqz","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"SYSTEM DESIGN / 2026","textShapes":8}
+{"kind":"textbox","id":"sh/ul4vaxgb","slide":1,"name":"label-SYSTEM DESIGN / 2026","text":"SYSTEM DESIGN / 2026","textPreview":"SYSTEM DESIGN / 2026","textChars":20,"textLines":1,"bbox":[64,56,300,22]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"deck-title","text":"FoodFlow","textPreview":"FoodFlow","textChars":8,"textLines":1,"bbox":[64,112,520,90]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"deck-subtitle","text":"One order truth.\nThree coordinated experiences.","textPreview":"One order truth. | Three coordinated experiences.","textChars":47,"textLines":2,"bbox":[66,225,480,125]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"deck-description","text":"A production-oriented design for customers, restaurants, couriers, and the services that keep them in sync.","textPreview":"A production-oriented design for customers, restaurants, couriers, and the services that keep them in sync.","textChars":107,"textLines":1,"bbox":[66,386,470,100]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"cover-rule","bbox":[64,555,450,2]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"text","text":"CITY-WIDE FOOD DELIVERY PLATFORM","textPreview":"CITY-WIDE FOOD DELIVERY PLATFORM","textChars":32,"textLines":1,"bbox":[64,577,420,28]}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"text","text":"Architecture  •  Contracts  •  Reliability  •  Delivery plan","textPreview":"Architecture  •  Contracts  •  Reliability  •  Delivery plan","textChars":60,"textLines":1,"bbox":[64,611,470,26]}
+{"kind":"shape","id":"sh/fu94fe98","slide":1,"name":"cover-image-backing","bbox":[614,38,602,622]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"name":"footer-section","text":"FOODFLOW SYSTEM DESIGN","textPreview":"FOODFLOW SYSTEM DESIGN","textChars":22,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"name":"footer-page","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"image","id":"im/kr6xgnu5","slide":1,"name":"","geometry":"roundRect","bbox":[628,52,574,594]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"Open with the coordination problem: three experiences must behave as one system.\n\n[Sources]\n- /Users/xkyota/Development/food-delivery/overview.md\n- /Users/xkyota/Development/food-delivery/output/pdf/foodflow-ui-concept.pdf\n[/Sources]"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"Four questions structure the design review","textShapes":24}
+{"kind":"textbox","id":"sh/ba9cn6l4","slide":2,"name":"slide-title","text":"Four questions structure the design review","textPreview":"Four questions structure the design review","textChars":42,"textLines":1,"bbox":[64,48,1100,62]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"slide-subtitle","text":"Product, platform, resilience, and delivery form one decision path.","textPreview":"Product, platform, resilience, and delivery form one decision path.","textChars":67,"textLines":1,"bbox":[66,116,1020,30]}
+{"kind":"shape","id":"sh/9svih8zm","slide":2,"name":"title-rule","bbox":[64,157,1152,0]}
+{"kind":"shape","id":"sh/8rmh83y1","slide":2,"name":"roadmap-line","bbox":[105,316,1060,0]}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"dot-0","bbox":[70,287,58,58]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[70,297.44,58,35.96]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"label-PHASE 0","text":"PRODUCT","textPreview":"PRODUCT","textChars":7,"textLines":1,"bbox":[70,218,110,22]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"text","text":"Promise + workflow","textPreview":"Promise + workflow","textChars":18,"textLines":1,"bbox":[70,377,245,34]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"text","text":"Actors and order lifecycle","textPreview":"Actors and order lifecycle","textChars":26,"textLines":1,"bbox":[70,425,245,55]}
+{"kind":"shape","id":"sh/bu9w7uxo","slide":2,"name":"phase-rule-0","bbox":[70,498,245,0]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"text","text":"COVERAGE\nSlides 3-4","textPreview":"COVERAGE | Slides 3-4","textChars":19,"textLines":2,"bbox":[70,516,245,72]}
+{"kind":"shape","id":"sh/mtwrmxg7","slide":2,"name":"dot-1","bbox":[370,287,58,58]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[370,297.44,58,35.96]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"label-PHASE 1","text":"PLATFORM","textPreview":"PLATFORM","textChars":8,"textLines":1,"bbox":[370,218,110,22]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"text","text":"Architecture + data","textPreview":"Architecture + data","textChars":19,"textLines":1,"bbox":[370,377,245,34]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"text","text":"Services, contracts, ownership","textPreview":"Services, contracts, ownership","textChars":30,"textLines":1,"bbox":[370,425,245,55]}
+{"kind":"shape","id":"sh/tgvqtcva","slide":2,"name":"phase-rule-1","bbox":[370,498,245,0]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"text","text":"COVERAGE\nSlides 5-7","textPreview":"COVERAGE | Slides 5-7","textChars":19,"textLines":2,"bbox":[370,516,245,72]}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"name":"dot-2","bbox":[670,287,58,58]}
+{"kind":"textbox","id":"sh/t8byxkn2","slide":2,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[670,297.44,58,35.96]}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"name":"label-PHASE 2","text":"RESILIENCE","textPreview":"RESILIENCE","textChars":10,"textLines":1,"bbox":[670,218,110,22]}
+{"kind":"textbox","id":"sh/76twva5c","slide":2,"name":"text","text":"Failure + experience","textPreview":"Failure + experience","textChars":20,"textLines":1,"bbox":[670,377,245,34]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"text","text":"Recovery, security, customer clarity","textPreview":"Recovery, security, customer clarity","textChars":36,"textLines":1,"bbox":[670,425,245,55]}
+{"kind":"shape","id":"sh/2l4r6hc7","slide":2,"name":"phase-rule-2","bbox":[670,498,245,0]}
+{"kind":"textbox","id":"sh/gbmxszmt","slide":2,"name":"text","text":"COVERAGE\nSlides 8-10","textPreview":"COVERAGE | Slides 8-10","textChars":20,"textLines":2,"bbox":[670,516,245,72]}
+{"kind":"shape","id":"sh/fadgzu58","slide":2,"name":"dot-3","bbox":[970,287,58,58]}
+{"kind":"textbox","id":"sh/u94fqp4n","slide":2,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[970,297.44,58,35.96]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"name":"label-PHASE 3","text":"DELIVERY","textPreview":"DELIVERY","textChars":8,"textLines":1,"bbox":[970,218,110,22]}
+{"kind":"textbox","id":"sh/4zmxwzmp","slide":2,"name":"text","text":"Roadmap + launch","textPreview":"Roadmap + launch","textChars":16,"textLines":1,"bbox":[970,377,245,34]}
+{"kind":"textbox","id":"sh/mlgvq147","slide":2,"name":"text","text":"Vertical slices, evidence, next move","textPreview":"Vertical slices, evidence, next move","textChars":36,"textLines":1,"bbox":[970,425,245,55]}
+{"kind":"shape","id":"sh/mtgn29sf","slide":2,"name":"phase-rule-3","bbox":[970,498,245,0]}
+{"kind":"textbox","id":"sh/onydsbmd","slide":2,"name":"text","text":"COVERAGE\nSlides 11-13","textPreview":"COVERAGE | Slides 11-13","textChars":21,"textLines":2,"bbox":[970,516,245,72]}
+{"kind":"textbox","id":"sh/9o7ulg3y","slide":2,"name":"footer-section","text":"PRESENTATION MAP","textPreview":"PRESENTATION MAP","textChars":16,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/a9gvulkj","slide":2,"name":"footer-page","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/content-plan.md\n- /Users/xkyota/Development/food-delivery/overview.md\n- /Users/xkyota/Development/food-delivery/requirements.md\n- /Users/xkyota/Development/food-delivery/service-contracts.md\n- /Users/xkyota/Development/food-delivery/operations.md\n- /Users/xkyota/Development/food-delivery/roadmap.md\n[/Sources]"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"Delivery is a synchronized marketplace","textShapes":15}
+{"kind":"textbox","id":"sh/03ix43e5","slide":3,"name":"slide-title","text":"Delivery is a synchronized marketplace","textPreview":"Delivery is a synchronized marketplace","textChars":38,"textLines":1,"bbox":[64,48,1100,62]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"slide-subtitle","text":"Each actor moves independently; the order workflow keeps the promise coherent.","textPreview":"Each actor moves independently; the order workflow keeps the promise coherent.","textChars":78,"textLines":1,"bbox":[66,116,1020,30]}
+{"kind":"shape","id":"sh/a9kfadwn","slide":3,"name":"title-rule","bbox":[64,157,1152,0]}
+{"kind":"shape","id":"sh/batgjixs","slide":3,"name":"actor-line","bbox":[212,345,856,0]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"dot-01","bbox":[115,258,118,118]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[115,279.24,118,73.16]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"text","text":"Customer","textPreview":"Customer","textChars":8,"textLines":1,"bbox":[253,270,210,40]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"text","text":"Discover\nPay\nTrack","textPreview":"Discover | Pay | Track","textChars":18,"textLines":3,"bbox":[253,317,195,95]}
+{"kind":"shape","id":"sh/n6ls3alk","slide":3,"name":"dot-02","bbox":[500,258,118,118]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[500,279.24,118,73.16]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"text","text":"Restaurant","textPreview":"Restaurant","textChars":10,"textLines":1,"bbox":[638,270,210,40]}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"text","text":"Accept\nPrepare\nHand off","textPreview":"Accept | Prepare | Hand off","textChars":23,"textLines":3,"bbox":[638,317,195,95]}
+{"kind":"shape","id":"sh/83ulovat","slide":3,"name":"dot-03","bbox":[885,258,118,118]}
+{"kind":"textbox","id":"sh/v6l4jq94","slide":3,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[885,279.24,118,73.16]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"name":"text","text":"Courier","textPreview":"Courier","textChars":7,"textLines":1,"bbox":[1023,270,210,40]}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"name":"text","text":"Claim\nNavigate\nDeliver","textPreview":"Claim | Navigate | Deliver","textChars":22,"textLines":3,"bbox":[1023,317,195,95]}
+{"kind":"shape","id":"sh/w7ulsvqp","slide":3,"name":"order-truth-band","bbox":[330,488,620,98]}
+{"kind":"textbox","id":"sh/ja54na9g","slide":3,"name":"label-ONE ORDER TRUTH","text":"ONE ORDER TRUTH","textPreview":"ONE ORDER TRUTH","textChars":15,"textLines":1,"bbox":[358,508,220,22]}
+{"kind":"textbox","id":"sh/i9w3u58v","slide":3,"name":"text","text":"State, money, ownership, and ETA advance together.","textPreview":"State, money, ownership, and ETA advance together.","textChars":50,"textLines":1,"bbox":[358,536,550,32]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"footer-section","text":"PRODUCT MODEL","textPreview":"PRODUCT MODEL","textChars":13,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/f29gbyx0","slide":3,"name":"footer-page","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/overview.md\n- /Users/xkyota/Development/food-delivery/applications/customer-app.excalidraw\n- /Users/xkyota/Development/food-delivery/applications/restaurant-portal.excalidraw\n- /Users/xkyota/Development/food-delivery/applications/courier-app.excalidraw\n[/Sources]"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"One state machine aligns money, food, and movement","textShapes":28}
+{"kind":"textbox","id":"sh/fm5c3q54","slide":4,"name":"slide-title","text":"One state machine aligns money, food, and movement","textPreview":"One state machine aligns money, food, and movement","textChars":50,"textLines":1,"bbox":[64,48,1100,62]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"slide-subtitle","text":"Every transition is authorized, idempotent, versioned, and written to the audit trail.","textPreview":"Every transition is authorized, idempotent, versioned, and written to the audit trail.","textChars":86,"textLines":1,"bbox":[66,116,1020,30]}
+{"kind":"shape","id":"sh/dknu10ny","slide":4,"name":"title-rule","bbox":[64,157,1152,0]}
+{"kind":"shape","id":"sh/sjut8vmd","slide":4,"name":"lifecycle-spine","bbox":[105,308,1060,0]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"dot-01","bbox":[72,283,51,51]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,292.18,51,31.62]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"text","text":"Payment\npending","textPreview":"Payment | pending","textChars":15,"textLines":2,"bbox":[38,353,120,58]}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"dot-02","bbox":[217,283,51,51]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[217,292.18,51,31.62]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"text","text":"Payment\nauthorized","textPreview":"Payment | authorized","textChars":18,"textLines":2,"bbox":[183,353,120,58]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"dot-03","bbox":[362,283,51,51]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[362,292.18,51,31.62]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"text","text":"Restaurant\nconfirmed","textPreview":"Restaurant | confirmed","textChars":20,"textLines":2,"bbox":[328,353,120,58]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"dot-04","bbox":[507,283,51,51]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[507,292.18,51,31.62]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"text","text":"Preparing","textPreview":"Preparing","textChars":9,"textLines":1,"bbox":[473,353,120,58]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"name":"dot-05","bbox":[652,283,51,51]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"text","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[652,292.18,51,31.62]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"text","text":"Ready for\npickup","textPreview":"Ready for | pickup","textChars":16,"textLines":2,"bbox":[618,353,120,58]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"dot-06","bbox":[797,283,51,51]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"text","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[797,292.18,51,31.62]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"text","text":"Picked up","textPreview":"Picked up","textChars":9,"textLines":1,"bbox":[763,353,120,58]}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"name":"dot-07","bbox":[942,283,51,51]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"text","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[942,292.18,51,31.62]}
+{"kind":"textbox","id":"sh/gv29g7q5","slide":4,"name":"text","text":"In transit","textPreview":"In transit","textChars":10,"textLines":1,"bbox":[908,353,120,58]}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"dot-08","bbox":[1087,283,51,51]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"text","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1087,292.18,51,31.62]}
+{"kind":"textbox","id":"sh/tsrqlc7u","slide":4,"name":"text","text":"Delivered","textPreview":"Delivered","textChars":9,"textLines":1,"bbox":[1053,353,120,58]}
+{"kind":"textbox","id":"sh/sri9s7q9","slide":4,"name":"label-COMMIT","text":"COMMIT","textPreview":"COMMIT","textChars":6,"textLines":1,"bbox":[72,218,120,22]}
+{"kind":"textbox","id":"sh/ilwf69kv","slide":4,"name":"label-FULFILL","text":"FULFILL","textPreview":"FULFILL","textChars":7,"textLines":1,"bbox":[506,218,120,22]}
+{"kind":"textbox","id":"sh/jm5gze1g","slide":4,"name":"label-DELIVER","text":"DELIVER","textPreview":"DELIVER","textChars":7,"textLines":1,"bbox":[796,218,120,22]}
+{"kind":"shape","id":"sh/knex8j21","slide":4,"name":"exception-lane","bbox":[72,478,1134,114]}
+{"kind":"textbox","id":"sh/5ony1oj6","slide":4,"name":"text","text":"Exception lane","textPreview":"Exception lane","textChars":14,"textLines":1,"bbox":[95,501,190,28]}
+{"kind":"textbox","id":"sh/axcf29kj","slide":4,"name":"text","text":"PAYMENT_FAILED","textPreview":"PAYMENT_FAILED","textChars":14,"textLines":1,"bbox":[320,502,195,25]}
+{"kind":"textbox","id":"sh/vy5gbe14","slide":4,"name":"text","text":"REJECTED","textPreview":"REJECTED","textChars":8,"textLines":1,"bbox":[560,502,145,25]}
+{"kind":"textbox","id":"sh/wzex4z2p","slide":4,"name":"text","text":"CANCELLED","textPreview":"CANCELLED","textChars":9,"textLines":1,"bbox":[760,502,160,25]}
+{"kind":"textbox","id":"sh/xknyx4ja","slide":4,"name":"text","text":"Refund remains a linked payment workflow, not a replacement for order history.","textPreview":"Refund remains a linked payment workflow, not a replacement for order history.","textChars":78,"textLines":1,"bbox":[320,542,760,32]}
+{"kind":"textbox","id":"sh/mtcfypkn","slide":4,"name":"footer-section","text":"CANONICAL WORKFLOW","textPreview":"CANONICAL WORKFLOW","textChars":18,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/nulw7u18","slide":4,"name":"footer-page","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/requirements.md\n- /Users/xkyota/Development/food-delivery/service-contracts.md\n[/Sources]"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"Boundaries isolate change and preserve traceability","textShapes":27}
+{"kind":"textbox","id":"sh/8f6hcj6t","slide":5,"name":"slide-title","text":"Boundaries isolate change and preserve traceability","textPreview":"Boundaries isolate change and preserve traceability","textChars":51,"textLines":1,"bbox":[64,48,1100,62]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"slide-subtitle","text":"Synchronous commands establish intent; durable events distribute the result.","textPreview":"Synchronous commands establish intent; durable events distribute the result.","textChars":76,"textLines":1,"bbox":[66,116,1020,30]}
+{"kind":"shape","id":"sh/98z298bu","slide":5,"name":"title-rule","bbox":[64,157,1152,0]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"client-0","bbox":[105,198,165,47]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"client-1","bbox":[310,198,165,47]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"client-2","bbox":[515,198,165,47]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"text","text":"Customer app","textPreview":"Customer app","textChars":12,"textLines":1,"bbox":[105,211,165,24]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"text","text":"Restaurant portal","textPreview":"Restaurant portal","textChars":17,"textLines":1,"bbox":[310,211,165,24]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"text","text":"Courier app","textPreview":"Courier app","textChars":11,"textLines":1,"bbox":[515,211,165,24]}
+{"kind":"shape","id":"sh/ruxkz2l0","slide":5,"name":"trust-boundary","bbox":[690,173,0,425]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"label-PUBLIC","text":"PUBLIC","textPreview":"PUBLIC","textChars":6,"textLines":1,"bbox":[72,174,100,22]}
+{"kind":"textbox","id":"sh/ahkvi1cb","slide":5,"name":"label-PRIVATE PLATFORM","text":"PRIVATE PLATFORM","textPreview":"PRIVATE PLATFORM","textChars":16,"textLines":1,"bbox":[720,174,190,22]}
+{"kind":"shape","id":"sh/sv6l8n2l","slide":5,"name":"gateway-in","bbox":[680,221,40,0]}
+{"kind":"shape","id":"sh/k7mxovud","slide":5,"name":"api-gateway","bbox":[720,198,180,47]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"text","text":"API Gateway / BFF","textPreview":"API Gateway / BFF","textChars":17,"textLines":1,"bbox":[720,211,180,24]}
+{"kind":"shape","id":"sh/i54fmlc7","slide":5,"name":"realtime-gateway","bbox":[930,198,180,47]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"text","text":"Realtime Gateway","textPreview":"Realtime Gateway","textChars":16,"textLines":1,"bbox":[930,211,180,24]}
+{"kind":"shape","id":"sh/v2dkrils","slide":5,"name":"edge-down-a","bbox":[810,245,0,68]}
+{"kind":"shape","id":"sh/u14jydk7","slide":5,"name":"edge-down-b","bbox":[1020,245,0,68]}
+{"kind":"shape","id":"sh/0vi9cfet","slide":5,"name":"service-bus","bbox":[760,338,410,0]}
+{"kind":"shape","id":"sh/lwrqlkfe","slide":5,"name":"event-backbone","bbox":[917,245,0,318]}
+{"kind":"shape","id":"sh/fe94nm1w","slide":5,"name":"service-Catalog","bbox":[720,316,135,48]}
+{"kind":"textbox","id":"sh/ud0ne10b","slide":5,"name":"text","text":"Catalog","textPreview":"Catalog","textChars":7,"textLines":1,"bbox":[720,329,135,23]}
+{"kind":"shape","id":"sh/pkr6tgjy","slide":5,"name":"service-Order","bbox":[874,316,135,48]}
+{"kind":"textbox","id":"sh/4ji5kbid","slide":5,"name":"text","text":"Order","textPreview":"Order","textChars":5,"textLines":1,"bbox":[874,329,135,23]}
+{"kind":"shape","id":"sh/3i94r61s","slide":5,"name":"service-Payment","bbox":[1028,316,135,48]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"text","text":"Payment","textPreview":"Payment","textChars":7,"textLines":1,"bbox":[1028,329,135,23]}
+{"kind":"shape","id":"sh/5o7mhcju","slide":5,"name":"service-Dispatch","bbox":[720,401,135,48]}
+{"kind":"textbox","id":"sh/kny587i9","slide":5,"name":"text","text":"Dispatch","textPreview":"Dispatch","textChars":8,"textLines":1,"bbox":[720,414,135,23]}
+{"kind":"shape","id":"sh/atcjidg7","slide":5,"name":"service-Tracking","bbox":[874,401,135,48]}
+{"kind":"textbox","id":"sh/vu5kbihc","slide":5,"name":"text","text":"Tracking","textPreview":"Tracking","textChars":8,"textLines":1,"bbox":[874,414,135,23]}
+{"kind":"shape","id":"sh/wve1knyx","slide":5,"name":"service-Notification","bbox":[1028,401,135,48]}
+{"kind":"textbox","id":"sh/xwn2dszi","slide":5,"name":"text","text":"Notification","textPreview":"Notification","textChars":12,"textLines":1,"bbox":[1028,414,135,23]}
+{"kind":"shape","id":"sh/ihw3mxg3","slide":5,"name":"architecture-explainer","bbox":[72,305,555,228]}
+{"kind":"textbox","id":"sh/ji5kf2ho","slide":5,"name":"label-COMMAND PATH","text":"COMMAND PATH","textPreview":"COMMAND PATH","textChars":12,"textLines":1,"bbox":[98,331,180,22]}
+{"kind":"textbox","id":"sh/kjelony9","slide":5,"name":"text","text":"HTTPS / REST","textPreview":"HTTPS / REST","textChars":12,"textLines":1,"bbox":[98,370,220,34]}
+{"kind":"textbox","id":"sh/5kn2hszu","slide":5,"name":"text","text":"Validation, authorization, rate limits, and ownership checks at the edge.","textPreview":"Validation, authorization, rate limits, and ownership checks at the edge.","textChars":73,"textLines":1,"bbox":[98,416,245,70]}
+{"kind":"textbox","id":"sh/e1sjatgz","slide":5,"name":"text","text":"EVENT PATH","textPreview":"EVENT PATH","textChars":10,"textLines":1,"bbox":[382,331,180,22]}
+{"kind":"textbox","id":"sh/zmlk3yhk","slide":5,"name":"text","text":"Kafka","textPreview":"Kafka","textChars":5,"textLines":1,"bbox":[382,370,150,34]}
+{"kind":"textbox","id":"sh/fid07u98","slide":5,"name":"text","text":"Outbox, replay, consumer inbox, and dead-letter handling.","textPreview":"Outbox, replay, consumer inbox, and dead-letter handling.","textChars":57,"textLines":1,"bbox":[382,416,210,76]}
+{"kind":"shape","id":"sh/ehkzepsn","slide":5,"name":"postgres","bbox":[720,519,135,47]}
+{"kind":"shape","id":"sh/1kvi94re","slide":5,"name":"redis","bbox":[874,519,135,47]}
+{"kind":"shape","id":"sh/gjmhgzqt","slide":5,"name":"kafka","bbox":[1028,519,135,47]}
+{"kind":"textbox","id":"sh/3md0bu94","slide":5,"name":"text","text":"PostgreSQL","textPreview":"PostgreSQL","textChars":10,"textLines":1,"bbox":[720,532,135,22]}
+{"kind":"textbox","id":"sh/2l4zip8j","slide":5,"name":"text","text":"Redis","textPreview":"Redis","textChars":5,"textLines":1,"bbox":[874,532,135,22]}
+{"kind":"textbox","id":"sh/povid4ra","slide":5,"name":"text","text":"Kafka","textPreview":"Kafka","textChars":5,"textLines":1,"bbox":[1028,532,135,22]}
+{"kind":"textbox","id":"sh/onmhkzqp","slide":5,"name":"text","text":"Providers: payment  •  maps  •  push / SMS / email","textPreview":"Providers: payment  •  maps  •  push / SMS / email","textChars":50,"textLines":1,"bbox":[720,600,443,28]}
+{"kind":"textbox","id":"sh/bqx0fe9g","slide":5,"name":"footer-section","text":"LOGICAL ARCHITECTURE","textPreview":"LOGICAL ARCHITECTURE","textChars":20,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/qp4jm98v","slide":5,"name":"footer-page","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/foodflow-system-architecture.excalidraw\n- /Users/xkyota/Development/food-delivery/tech-stack.md\n- /Users/xkyota/Development/food-delivery/service-contracts.md\n[/Sources]"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"Replay-safe contracts turn retries into normal behavior","textShapes":25}
+{"kind":"textbox","id":"sh/m5076xkj","slide":6,"name":"slide-title","text":"Replay-safe contracts turn retries into normal behavior","textPreview":"Replay-safe contracts turn retries into normal behavior","textChars":55,"textLines":1,"bbox":[64,48,1100,62]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"slide-subtitle","text":"The same command or provider callback can arrive more than once without repeating the effect.","textPreview":"The same command or provider callback can arrive more than once without repeating the effect.","textChars":93,"textLines":1,"bbox":[66,116,1020,30]}
+{"kind":"shape","id":"sh/itgrehwz","slide":6,"name":"title-rule","bbox":[64,157,1152,0]}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"name":"label-COMMAND","text":"COMMAND","textPreview":"COMMAND","textChars":7,"textLines":1,"bbox":[70,194,130,22]}
+{"kind":"shape","id":"sh/4vy9grep","slide":6,"name":"command-line","bbox":[116,278,438,0]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"dot-1","bbox":[72,253,50,50]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"text","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[72,262,50,31]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"text","text":"Client request","textPreview":"Client request","textChars":14,"textLines":1,"bbox":[52,327,95,58]}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"name":"dot-2","bbox":[217,253,50,50]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"text","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[217,262,50,31]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"text","text":"BFF validates","textPreview":"BFF validates","textChars":13,"textLines":1,"bbox":[197,327,95,58]}
+{"kind":"shape","id":"sh/v2tcn650","slide":6,"name":"dot-3","bbox":[362,253,50,50]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"text","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[362,262,50,31]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"text","text":"Owner commits","textPreview":"Owner commits","textChars":13,"textLines":1,"bbox":[342,327,95,58]}
+{"kind":"shape","id":"sh/47mt0b6x","slide":6,"name":"dot-4","bbox":[507,253,50,50]}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"text","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[507,262,50,31]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"text","text":"Outbox publishes","textPreview":"Outbox publishes","textChars":16,"textLines":1,"bbox":[487,327,95,58]}
+{"kind":"shape","id":"sh/twfux0ne","slide":6,"name":"idempotency-block","bbox":[70,426,510,118]}
+{"kind":"textbox","id":"sh/svmt4v6t","slide":6,"name":"text","text":"Idempotency-Key","textPreview":"Idempotency-Key","textChars":15,"textLines":1,"bbox":[95,449,220,30]}
+{"kind":"textbox","id":"sh/cbe5g3ih","slide":6,"name":"text","text":"Stable business key -> one order, one authorization, one capture.","textPreview":"Stable business key -> one order, one authorization, one capture.","textChars":65,"textLines":1,"bbox":[95,491,430,40]}
+{"kind":"shape","id":"sh/69wji54z","slide":6,"name":"contract-divider","bbox":[632,190,0,392]}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"label-EVENT ENVELOPE","text":"EVENT ENVELOPE","textPreview":"EVENT ENVELOPE","textChars":14,"textLines":1,"bbox":[680,194,180,22]}
+{"kind":"textbox","id":"sh/bq547yhw","slide":6,"name":"text","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[680,245,135,25]}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"name":"text","text":"event_id  •  aggregate_id  •  version","textPreview":"event_id  •  aggregate_id  •  version","textChars":37,"textLines":1,"bbox":[830,245,360,39]}
+{"kind":"shape","id":"sh/udwjmpkv","slide":6,"name":"field-rule-0","bbox":[680,293,510,0]}
+{"kind":"textbox","id":"sh/ydgnit07","slide":6,"name":"text","text":"Causality","textPreview":"Causality","textChars":9,"textLines":1,"bbox":[680,317,135,25]}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"name":"text","text":"correlation_id  •  causation_id","textPreview":"correlation_id  •  causation_id","textChars":31,"textLines":1,"bbox":[830,317,360,39]}
+{"kind":"shape","id":"sh/5s721cfe","slide":6,"name":"field-rule-1","bbox":[680,365,510,0]}
+{"kind":"textbox","id":"sh/1k3mhozu","slide":6,"name":"text","text":"Time","textPreview":"Time","textChars":4,"textLines":1,"bbox":[680,389,135,25]}
+{"kind":"textbox","id":"sh/jet8nm1c","slide":6,"name":"text","text":"occurred_at  •  schema_version","textPreview":"occurred_at  •  schema_version","textChars":30,"textLines":1,"bbox":[830,389,360,39]}
+{"kind":"shape","id":"sh/i5wj6xwn","slide":6,"name":"field-rule-2","bbox":[680,437,510,0]}
+{"kind":"textbox","id":"sh/50bqpcj2","slide":6,"name":"text","text":"Payload","textPreview":"Payload","textChars":7,"textLines":1,"bbox":[680,461,135,25]}
+{"kind":"textbox","id":"sh/4f2pgr2h","slide":6,"name":"text","text":"typed domain facts, never commands","textPreview":"typed domain facts, never commands","textChars":34,"textLines":1,"bbox":[830,461,360,39]}
+{"kind":"shape","id":"sh/rupk3mxk","slide":6,"name":"field-rule-3","bbox":[680,509,510,0]}
+{"kind":"shape","id":"sh/u907axkf","slide":6,"name":"contract-result","bbox":[680,553,510,72]}
+{"kind":"textbox","id":"sh/hcrqlcj6","slide":6,"name":"text","text":"At-least-once delivery + inbox deduplication = one business effect","textPreview":"At-least-once delivery + inbox deduplication = one business effect","textChars":66,"textLines":1,"bbox":[701,575,470,32]}
+{"kind":"textbox","id":"sh/wbipc72l","slide":6,"name":"footer-section","text":"INTEGRATION CONTRACTS","textPreview":"INTEGRATION CONTRACTS","textChars":21,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/7698f214","slide":6,"name":"footer-page","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/service-contracts.md\n- /Users/xkyota/Development/food-delivery/requirements.md\n[/Sources]"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"Data ownership protects the invariants that matter","textShapes":21}
+{"kind":"textbox","id":"sh/a18nup8z","slide":7,"name":"slide-title","text":"Data ownership protects the invariants that matter","textPreview":"Data ownership protects the invariants that matter","textChars":50,"textLines":1,"bbox":[64,48,1100,62]}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"slide-subtitle","text":"A shared cluster can start the MVP; direct cross-service writes cannot.","textPreview":"A shared cluster can start the MVP; direct cross-service writes cannot.","textChars":71,"textLines":1,"bbox":[66,116,1020,30]}
+{"kind":"shape","id":"sh/fal8bi1g","slide":7,"name":"title-rule","bbox":[64,157,1152,0]}
+{"kind":"shape","id":"sh/e9c7ixkv","slide":7,"name":"user-order","bbox":[315,354,170,0]}
+{"kind":"shape","id":"sh/d8jq9sja","slide":7,"name":"restaurant-order","bbox":[315,389,170,125]}
+{"kind":"shape","id":"sh/s7apgn2p","slide":7,"name":"payment-order","bbox":[652,229,168,125]}
+{"kind":"shape","id":"sh/r6187i14","slide":7,"name":"delivery-order","bbox":[652,354,168,0]}
+{"kind":"shape","id":"sh/q5s7edkj","slide":7,"name":"courier-order","bbox":[652,389,168,125]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"name":"order-aggregate","bbox":[485,281,167,165]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"label-AGGREGATE","text":"AGGREGATE","textPreview":"AGGREGATE","textChars":9,"textLines":1,"bbox":[505,300,140,22]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"text","text":"ORDER","textPreview":"ORDER","textChars":5,"textLines":1,"bbox":[505,342,130,35]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"text","text":"items\nstatus + version\naddress + totals","textPreview":"items | status + version | address + totals","textChars":39,"textLines":3,"bbox":[505,381,130,60]}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"entity-USER","bbox":[105,318,210,74]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"text","text":"USER","textPreview":"USER","textChars":4,"textLines":1,"bbox":[121,332,180,23]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"text","text":"Owner: Identity","textPreview":"Owner: Identity","textChars":15,"textLines":1,"bbox":[121,361,180,20]}
+{"kind":"shape","id":"sh/p8fih03e","slide":7,"name":"entity-RESTAURANT","bbox":[105,480,210,74]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"text","text":"RESTAURANT","textPreview":"RESTAURANT","textChars":10,"textLines":1,"bbox":[121,494,180,23]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"text","text":"Owner: Catalog","textPreview":"Owner: Catalog","textChars":14,"textLines":1,"bbox":[121,523,180,20]}
+{"kind":"shape","id":"sh/eh4jil4r","slide":7,"name":"entity-PAYMENT / REFUND","bbox":[820,198,210,74]}
+{"kind":"textbox","id":"sh/id4ju1oz","slide":7,"name":"text","text":"PAYMENT / REFUND","textPreview":"PAYMENT / REFUND","textChars":16,"textLines":1,"bbox":[836,212,180,23]}
+{"kind":"textbox","id":"sh/jedkn654","slide":7,"name":"text","text":"Owner: Payment","textPreview":"Owner: Payment","textChars":14,"textLines":1,"bbox":[836,241,180,20]}
+{"kind":"shape","id":"sh/4fm1wb6p","slide":7,"name":"entity-DELIVERY","bbox":[820,318,210,74]}
+{"kind":"textbox","id":"sh/50v2pgna","slide":7,"name":"text","text":"DELIVERY","textPreview":"DELIVERY","textChars":8,"textLines":1,"bbox":[836,332,180,23]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"text","text":"Owner: Dispatch","textPreview":"Owner: Dispatch","textChars":15,"textLines":1,"bbox":[836,361,180,20]}
+{"kind":"shape","id":"sh/r2dkrq5g","slide":7,"name":"entity-COURIER / PAYOUT","bbox":[820,480,210,74]}
+{"kind":"textbox","id":"sh/s3ml0v61","slide":7,"name":"text","text":"COURIER / PAYOUT","textPreview":"COURIER / PAYOUT","textChars":16,"textLines":1,"bbox":[836,494,180,23]}
+{"kind":"textbox","id":"sh/d4f2t0nm","slide":7,"name":"text","text":"Owner: Dispatch","textPreview":"Owner: Dispatch","textChars":15,"textLines":1,"bbox":[836,523,180,20]}
+{"kind":"shape","id":"sh/e5o32lor","slide":7,"name":"data-rules","bbox":[1050,198,165,356]}
+{"kind":"textbox","id":"sh/f6xkvq5c","slide":7,"name":"label-RULES","text":"RULES","textPreview":"RULES","textChars":5,"textLines":1,"bbox":[1072,222,110,22]}
+{"kind":"textbox","id":"sh/p0zmlk7u","slide":7,"name":"text","text":"Snapshot\nprices + address","textPreview":"Snapshot | prices + address","textChars":25,"textLines":2,"bbox":[1072,268,118,70]}
+{"kind":"shape","id":"sh/v258jm1o","slide":7,"name":"data-rule-1","bbox":[1072,351,118,0]}
+{"kind":"textbox","id":"sh/nyh4jupo","slide":7,"name":"text","text":"Version\nevery transition","textPreview":"Version | every transition","textChars":24,"textLines":2,"bbox":[1072,372,118,70]}
+{"kind":"shape","id":"sh/h4nqlwju","slide":7,"name":"data-rule-2","bbox":[1072,455,118,0]}
+{"kind":"textbox","id":"sh/x4j6p47q","slide":7,"name":"text","text":"Audit\nactor + reason","textPreview":"Audit | actor + reason","textChars":20,"textLines":2,"bbox":[1072,476,118,70]}
+{"kind":"textbox","id":"sh/c3a5wzq5","slide":7,"name":"footer-section","text":"DATA MODEL","textPreview":"DATA MODEL","textChars":10,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/b2h4nupk","slide":7,"name":"footer-page","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/database-model.excalidraw\n- /Users/xkyota/Development/food-delivery/service-contracts.md\n[/Sources]"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"Failures degrade capability, not integrity","textShapes":5}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"slide-title","text":"Failures degrade capability, not integrity","textPreview":"Failures degrade capability, not integrity","textChars":42,"textLines":1,"bbox":[64,48,1100,62]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"slide-subtitle","text":"The order remains explainable even when a provider or projection is temporarily unavailable.","textPreview":"The order remains explainable even when a provider or projection is temporarily unavailable.","textChars":92,"textLines":1,"bbox":[66,116,1020,30]}
+{"kind":"shape","id":"sh/1k7edwv2","slide":8,"name":"title-rule","bbox":[64,157,1152,0]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"failure-accent","bbox":[70,628,9,24]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"text","text":"Money and canonical order state always reconcile after recovery.","textPreview":"Money and canonical order state always reconcile after recovery.","textChars":64,"textLines":1,"bbox":[94,628,770,28]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"footer-section","text":"RESILIENCE","textPreview":"RESILIENCE","textChars":10,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"footer-page","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"table","id":"tb/5sre1gnq","slide":8,"name":"","rows":7,"cols":3,"preview":"Failure | Customer experience | Control","bbox":[70,198,1140,410]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/operations.md\n- /Users/xkyota/Development/food-delivery/requirements.md\n[/Sources]"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"Security and operability are part of the order path","textShapes":21}
+{"kind":"textbox","id":"sh/onmxcv69","slide":9,"name":"slide-title","text":"Security and operability are part of the order path","textPreview":"Security and operability are part of the order path","textChars":51,"textLines":1,"bbox":[64,48,1100,62]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"slide-subtitle","text":"Controls follow the same four layers as the request, data, and evidence.","textPreview":"Controls follow the same four layers as the request, data, and evidence.","textChars":72,"textLines":1,"bbox":[66,116,1020,30]}
+{"kind":"shape","id":"sh/kzm14z2p","slide":9,"name":"title-rule","bbox":[64,157,1152,0]}
+{"kind":"shape","id":"sh/nex4jq5k","slide":9,"name":"dot-01","bbox":[73,194,52,52]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[73,203.36,52,32.24]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"text","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[148,195,180,32]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"text","text":"OIDC + PKCE","textPreview":"OIDC + PKCE","textChars":11,"textLines":1,"bbox":[350,199,210,28]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"name":"text","text":"Short-lived tokens, refresh rotation, RBAC + ownership","textPreview":"Short-lived tokens, refresh rotation, RBAC + ownership","textChars":54,"textLines":1,"bbox":[585,197,600,45]}
+{"kind":"shape","id":"sh/atkjypkn","slide":9,"name":"security-rule-0","bbox":[148,264,1037,0]}
+{"kind":"shape","id":"sh/oza1gfyh","slide":9,"name":"dot-02","bbox":[73,298,52,52]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[73,307.36,52,32.24]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"text","text":"Boundary","textPreview":"Boundary","textChars":8,"textLines":1,"bbox":[148,299,180,32]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"text","text":"TLS + validation","textPreview":"TLS + validation","textChars":16,"textLines":1,"bbox":[350,303,210,28]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"text","text":"Rate limits, payload limits, signed webhooks, replay protection","textPreview":"Rate limits, payload limits, signed webhooks, replay protection","textChars":63,"textLines":1,"bbox":[585,301,600,45]}
+{"kind":"shape","id":"sh/10ry1gz6","slide":9,"name":"security-rule-1","bbox":[148,368,1037,0]}
+{"kind":"shape","id":"sh/qlcjipgn","slide":9,"name":"dot-03","bbox":[73,402,52,52]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[73,411.36,52,32.24]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"text","text":"Data","textPreview":"Data","textChars":4,"textLines":1,"bbox":[148,403,180,32]}
+{"kind":"textbox","id":"sh/lsn2h4fa","slide":9,"name":"text","text":"Minimize + encrypt","textPreview":"Minimize + encrypt","textChars":18,"textLines":1,"bbox":[350,407,210,28]}
+{"kind":"textbox","id":"sh/98ji147e","slide":9,"name":"text","text":"Provider-held card data, protected PII, scoped courier visibility","textPreview":"Provider-held card data, protected PII, scoped courier visibility","textChars":65,"textLines":1,"bbox":[585,405,600,45]}
+{"kind":"shape","id":"sh/b6tg7ah8","slide":9,"name":"security-rule-2","bbox":[148,472,1037,0]}
+{"kind":"shape","id":"sh/76h0zup8","slide":9,"name":"dot-04","bbox":[73,506,52,52]}
+{"kind":"textbox","id":"sh/ml8j6p8n","slide":9,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[73,515.36,52,32.24]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"name":"text","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[148,507,180,32]}
+{"kind":"textbox","id":"sh/wba1cjqp","slide":9,"name":"text","text":"Trace + audit","textPreview":"Trace + audit","textChars":13,"textLines":1,"bbox":[350,511,210,28]}
+{"kind":"textbox","id":"sh/va103ep4","slide":9,"name":"text","text":"Correlation IDs, immutable transitions, privileged-action logs","textPreview":"Correlation IDs, immutable transitions, privileged-action logs","textChars":62,"textLines":1,"bbox":[585,509,600,45]}
+{"kind":"shape","id":"sh/alw7yhoj","slide":9,"name":"security-rule-3","bbox":[148,576,1037,0]}
+{"kind":"shape","id":"sh/xgzitk76","slide":9,"name":"security-bottom","bbox":[73,610,1112,42]}
+{"kind":"textbox","id":"sh/cf6h0fql","slide":9,"name":"text","text":"Business invariants become alerts: stuck orders, unmatched captures, excess refunds, conflicting courier assignments.","textPreview":"Business invariants become alerts: stuck orders, unmatched captures, excess refunds, conflicting courier assignments.","textChars":117,"textLines":1,"bbox":[94,620,1070,24]}
+{"kind":"textbox","id":"sh/2l4faloj","slide":9,"name":"footer-section","text":"SECURITY + OPERATIONS","textPreview":"SECURITY + OPERATIONS","textChars":21,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/nmdg3q54","slide":9,"name":"footer-page","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/operations.md\n- /Users/xkyota/Development/food-delivery/foodflow-system-architecture.excalidraw\n[/Sources]"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"CUSTOMER EXPERIENCE","textShapes":11}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"name":"label-CUSTOMER EXPERIENCE","text":"CUSTOMER EXPERIENCE","textPreview":"CUSTOMER EXPERIENCE","textChars":19,"textLines":1,"bbox":[64,52,260,22]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"experience-title","text":"Operational complexity\nstays behind the glass","textPreview":"Operational complexity | stays behind the glass","textChars":45,"textLines":2,"bbox":[64,108,495,130]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"text","text":"The customer sees clear choices, current delivery context, and one obvious next action - while retries and reconciliation happen underneath.","textPreview":"The customer sees clear choices, current delivery context, and one obvious next action - while retries and reconciliation happen underneath.","textChars":140,"textLines":1,"bbox":[66,282,460,112]}
+{"kind":"shape","id":"sh/zelojyl8","slide":10,"name":"dot-1","bbox":[66,445,24,24]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"text","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[66,449.32,24,14.88]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"text","text":"Editorial discovery","textPreview":"Editorial discovery","textChars":19,"textLines":1,"bbox":[105,446,300,26]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"dot-2","bbox":[66,495,24,24]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"text","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[66,499.32,24,14.88]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"text","text":"Live order context","textPreview":"Live order context","textChars":18,"textLines":1,"bbox":[105,496,300,26]}
+{"kind":"shape","id":"sh/s7yt4b21","slide":10,"name":"dot-3","bbox":[66,545,24,24]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"text","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[66,549.32,24,14.88]}
+{"kind":"textbox","id":"sh/q5gb21kb","slide":10,"name":"text","text":"Focused checkout","textPreview":"Focused checkout","textChars":16,"textLines":1,"bbox":[105,546,300,26]}
+{"kind":"shape","id":"sh/r6pcv6lw","slide":10,"name":"experience-image-backing","bbox":[594,40,622,620]}
+{"kind":"textbox","id":"sh/1cru1g3y","slide":10,"name":"footer-section","text":"EXPERIENCE DESIGN","textPreview":"EXPERIENCE DESIGN","textChars":17,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/e9gb61k7","slide":10,"name":"footer-page","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"image","id":"im/ra907i14","slide":10,"name":"","geometry":"roundRect","bbox":[608,54,594,592]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/output/pdf/foodflow-ui-concept.pdf\n- /Users/xkyota/Development/food-delivery/applications/customer-app.excalidraw\n[/Sources]"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Release value in safe vertical slices","textShapes":24}
+{"kind":"textbox","id":"sh/z2hw72lc","slide":11,"name":"slide-title","text":"Release value in safe vertical slices","textPreview":"Release value in safe vertical slices","textChars":37,"textLines":1,"bbox":[64,48,1100,62]}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"name":"slide-subtitle","text":"Each phase ends with evidence, not just feature completion.","textPreview":"Each phase ends with evidence, not just feature completion.","textChars":59,"textLines":1,"bbox":[66,116,1020,30]}
+{"kind":"shape","id":"sh/lo7ylgbu","slide":11,"name":"title-rule","bbox":[64,157,1152,0]}
+{"kind":"shape","id":"sh/knyxcba9","slide":11,"name":"roadmap-line","bbox":[105,316,1060,0]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"dot-0","bbox":[70,287,58,58]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"text","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[70,297.44,58,35.96]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"label-PHASE 0","text":"PHASE 0","textPreview":"PHASE 0","textChars":7,"textLines":1,"bbox":[70,218,110,22]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"text","text":"Foundations","textPreview":"Foundations","textChars":11,"textLines":1,"bbox":[70,377,245,34]}
+{"kind":"textbox","id":"sh/61kzalof","slide":11,"name":"text","text":"Auth, CI, environments, tracing","textPreview":"Auth, CI, environments, tracing","textChars":31,"textLines":1,"bbox":[70,425,245,55]}
+{"kind":"shape","id":"sh/zipwjm9o","slide":11,"name":"phase-rule-0","bbox":[70,498,245,0]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"text","text":"EXIT GATE\nTraced command reaches DB + Kafka","textPreview":"EXIT GATE | Traced command reaches DB + Kafka","textChars":43,"textLines":2,"bbox":[70,516,245,72]}
+{"kind":"shape","id":"sh/mdobedg3","slide":11,"name":"dot-1","bbox":[370,287,58,58]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":11,"name":"text","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[370,297.44,58,35.96]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"label-PHASE 1","text":"PHASE 1","textPreview":"PHASE 1","textChars":7,"textLines":1,"bbox":[370,218,110,22]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"text","text":"Order core","textPreview":"Order core","textChars":10,"textLines":1,"bbox":[370,377,245,34]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"text","text":"Catalog, checkout, restaurant, payment","textPreview":"Catalog, checkout, restaurant, payment","textChars":38,"textLines":1,"bbox":[370,425,245,55]}
+{"kind":"shape","id":"sh/5wb6ls3q","slide":11,"name":"phase-rule-1","bbox":[370,498,245,0]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"text","text":"EXIT GATE\nPayment compensations pass","textPreview":"EXIT GATE | Payment compensations pass","textChars":36,"textLines":2,"bbox":[370,516,245,72]}
+{"kind":"shape","id":"sh/dofa18z6","slide":11,"name":"dot-2","bbox":[670,287,58,58]}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"name":"text","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[670,297.44,58,35.96]}
+{"kind":"textbox","id":"sh/87ehgv6d","slide":11,"name":"label-PHASE 2","text":"PHASE 2","textPreview":"PHASE 2","textChars":7,"textLines":1,"bbox":[670,218,110,22]}
+{"kind":"textbox","id":"sh/7650nq5s","slide":11,"name":"text","text":"Delivery + live","textPreview":"Delivery + live","textChars":15,"textLines":1,"bbox":[670,377,245,34]}
+{"kind":"textbox","id":"sh/65wzelo7","slide":11,"name":"text","text":"Dispatch, courier, GPS, WebSocket","textPreview":"Dispatch, courier, GPS, WebSocket","textChars":33,"textLines":1,"bbox":[670,425,245,55]}
+{"kind":"shape","id":"sh/m1gn2d47","slide":11,"name":"phase-rule-2","bbox":[670,498,245,0]}
+{"kind":"textbox","id":"sh/k3uhcb6h","slide":11,"name":"text","text":"EXIT GATE\nEnd-to-end retry path passes","textPreview":"EXIT GATE | End-to-end retry path passes","textChars":38,"textLines":2,"bbox":[670,516,245,72]}
+{"kind":"shape","id":"sh/j2lgjq5w","slide":11,"name":"dot-3","bbox":[970,287,58,58]}
+{"kind":"textbox","id":"sh/y1czalob","slide":11,"name":"text","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[970,297.44,58,35.96]}
+{"kind":"textbox","id":"sh/p07ixkn6","slide":11,"name":"label-PHASE 3","text":"PHASE 3","textPreview":"PHASE 3","textChars":7,"textLines":1,"bbox":[970,218,110,22]}
+{"kind":"textbox","id":"sh/4zyhofml","slide":11,"name":"text","text":"Hardening","textPreview":"Hardening","textChars":9,"textLines":1,"bbox":[970,377,245,34]}
+{"kind":"textbox","id":"sh/m58fih43","slide":11,"name":"text","text":"Load, chaos, restore, security","textPreview":"Load, chaos, restore, security","textChars":30,"textLines":1,"bbox":[970,425,245,55]}
+{"kind":"shape","id":"sh/2hc36pkn","slide":11,"name":"phase-rule-3","bbox":[970,498,245,0]}
+{"kind":"textbox","id":"sh/o7axk7m9","slide":11,"name":"text","text":"EXIT GATE\nOwners approve launch + rollback","textPreview":"EXIT GATE | Owners approve launch + rollback","textChars":42,"textLines":2,"bbox":[970,516,245,72]}
+{"kind":"textbox","id":"sh/98jedc3u","slide":11,"name":"footer-section","text":"IMPLEMENTATION PLAN","textPreview":"IMPLEMENTATION PLAN","textChars":19,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/eh8fex47","slide":11,"name":"footer-page","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/roadmap.md\n- /Users/xkyota/Development/food-delivery/requirements.md\n[/Sources]"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"Recovery evidence is the production gate","textShapes":24}
+{"kind":"textbox","id":"sh/xonutobe","slide":12,"name":"slide-title","text":"Recovery evidence is the production gate","textPreview":"Recovery evidence is the production gate","textChars":40,"textLines":1,"bbox":[64,48,1100,62]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"name":"slide-subtitle","text":"Feature completeness is necessary; operational evidence is the launch criterion.","textPreview":"Feature completeness is necessary; operational evidence is the launch criterion.","textChars":80,"textLines":1,"bbox":[66,116,1020,30]}
+{"kind":"shape","id":"sh/36x476ls","slide":12,"name":"title-rule","bbox":[64,157,1152,0]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[70,190,50,28]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"text","text":"End-to-end","textPreview":"End-to-end","textChars":10,"textLines":1,"bbox":[134,188,210,30]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"text","text":"Happy path and duplicate requests pass across all three apps.","textPreview":"Happy path and duplicate requests pass across all three apps.","textChars":61,"textLines":1,"bbox":[134,227,470,56]}
+{"kind":"shape","id":"sh/ruh4b6lo","slide":12,"name":"gate-rule-0","bbox":[70,291,520,0]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[645,190,50,28]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"text","text":"Financial","textPreview":"Financial","textChars":9,"textLines":1,"bbox":[709,188,210,30]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"text","text":"Authorize, capture, void, refund, and reconciliation agree.","textPreview":"Authorize, capture, void, refund, and reconciliation agree.","textChars":59,"textLines":1,"bbox":[709,227,470,56]}
+{"kind":"shape","id":"sh/y5kjixk3","slide":12,"name":"gate-rule-1","bbox":[645,291,520,0]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[70,322,50,28]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"name":"text","text":"Resilience","textPreview":"Resilience","textChars":10,"textLines":1,"bbox":[134,320,210,30]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"name":"text","text":"Failover, replay, DLQ repair, and provider outage are rehearsed.","textPreview":"Failover, replay, DLQ repair, and provider outage are rehearsed.","textChars":64,"textLines":1,"bbox":[134,359,470,56]}
+{"kind":"shape","id":"sh/69kjmxkz","slide":12,"name":"gate-rule-2","bbox":[70,423,520,0]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[645,322,50,28]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"text","text":"Security","textPreview":"Security","textChars":8,"textLines":1,"bbox":[709,320,210,30]}
+{"kind":"textbox","id":"sh/0nap8f6l","slide":12,"name":"text","text":"Role boundaries, webhook replay, rate limits, and PII controls pass.","textPreview":"Role boundaries, webhook replay, rate limits, and PII controls pass.","textChars":68,"textLines":1,"bbox":[709,359,470,56]}
+{"kind":"shape","id":"sh/md0jadkv","slide":12,"name":"gate-rule-3","bbox":[645,423,520,0]}
+{"kind":"textbox","id":"sh/hkbm5wzu","slide":12,"name":"text","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[70,454,50,28]}
+{"kind":"textbox","id":"sh/gj25cry9","slide":12,"name":"text","text":"Performance","textPreview":"Performance","textChars":11,"textLines":1,"bbox":[134,452,210,30]}
+{"kind":"textbox","id":"sh/fit436ho","slide":12,"name":"text","text":"Order, catalog, tracking, GPS, and consumer-lag targets hold.","textPreview":"Order, catalog, tracking, GPS, and consumer-lag targets hold.","textChars":61,"textLines":1,"bbox":[134,491,470,56]}
+{"kind":"shape","id":"sh/tozuh8fm","slide":12,"name":"gate-rule-4","bbox":[70,555,520,0]}
+{"kind":"textbox","id":"sh/tgrm1wzy","slide":12,"name":"text","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[645,454,50,28]}
+{"kind":"textbox","id":"sh/sfi58ryd","slide":12,"name":"text","text":"Ownership","textPreview":"Ownership","textChars":9,"textLines":1,"bbox":[709,452,210,30]}
+{"kind":"textbox","id":"sh/7u94zmhs","slide":12,"name":"text","text":"Dashboards, alerts, runbooks, rollback, and on-call owners exist.","textPreview":"Dashboards, alerts, runbooks, rollback, and on-call owners exist.","textChars":65,"textLines":1,"bbox":[709,491,470,56]}
+{"kind":"shape","id":"sh/1szul8fy","slide":12,"name":"gate-rule-5","bbox":[645,555,520,0]}
+{"kind":"shape","id":"sh/dcv6dgz2","slide":12,"name":"launch-decision","bbox":[70,594,1095,58]}
+{"kind":"textbox","id":"sh/cbm5kbyh","slide":12,"name":"text","text":"DECISION","textPreview":"DECISION","textChars":8,"textLines":1,"bbox":[94,612,130,24]}
+{"kind":"textbox","id":"sh/alwbitsn","slide":12,"name":"text","text":"Approve a staged city pilot only when all six evidence gates are green.","textPreview":"Approve a staged city pilot only when all six evidence gates are green.","textChars":71,"textLines":1,"bbox":[255,608,875,30]}
+{"kind":"textbox","id":"sh/bm5sryt8","slide":12,"name":"footer-section","text":"LAUNCH READINESS","textPreview":"LAUNCH READINESS","textChars":16,"textLines":1,"bbox":[64,684,330,16]}
+{"kind":"textbox","id":"sh/wnetkjat","slide":12,"name":"footer-page","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1165,682,50,18]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"[Sources]\n- /Users/xkyota/Development/food-delivery/roadmap.md\n- /Users/xkyota/Development/food-delivery/operations.md\n- /Users/xkyota/Development/food-delivery/requirements.md\n[/Sources]"}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"FOODFLOW / NEXT MOVE","textShapes":11}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"name":"label-FOODFLOW / NEXT MOVE","text":"FOODFLOW / NEXT MOVE","textPreview":"FOODFLOW / NEXT MOVE","textChars":20,"textLines":1,"bbox":[64,58,260,22]}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"name":"closing-title","text":"Ready for staged\nimplementation.","textPreview":"Ready for staged | implementation.","textChars":32,"textLines":2,"bbox":[64,140,780,150]}
+{"kind":"textbox","id":"sh/bq9orito","slide":13,"name":"text","text":"The core design now connects experience, state, contracts, data, failure handling, and launch gates.","textPreview":"The core design now connects experience, state, contracts, data, failure handling, and launch gates.","textChars":100,"textLines":1,"bbox":[67,340,640,90]}
+{"kind":"shape","id":"sh/cnqh8fux","slide":13,"name":"closing-rule","bbox":[66,473,1070,0]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":13,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[66,515,45,26]}
+{"kind":"textbox","id":"sh/21gnuts7","slide":13,"name":"text","text":"Confirm capacity inputs","textPreview":"Confirm capacity inputs","textChars":23,"textLines":1,"bbox":[118,512,260,52]}
+{"kind":"textbox","id":"sh/32ponyts","slide":13,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[426,515,45,26]}
+{"kind":"textbox","id":"sh/gzy5s3a1","slide":13,"name":"text","text":"Resolve policy decisions","textPreview":"Resolve policy decisions","textChars":24,"textLines":1,"bbox":[478,512,260,52]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[786,515,45,26]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"text","text":"Build the traced vertical slice","textPreview":"Build the traced vertical slice","textChars":31,"textLines":1,"bbox":[838,512,260,52]}
+{"kind":"textbox","id":"sh/gb6x0zm9","slide":13,"name":"text","text":"FoodFlow system design  •  2026","textPreview":"FoodFlow system design  •  2026","textChars":31,"textLines":1,"bbox":[66,666,400,18]}
+{"kind":"textbox","id":"sh/vaxg7ulo","slide":13,"name":"text","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1165,664,50,18]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"Close on the next executable step: a traced vertical slice, not a broad feature build.\n\n[Sources]\n- /Users/xkyota/Development/food-delivery/README.md\n- /Users/xkyota/Development/food-delivery/roadmap.md\n[/Sources]"}

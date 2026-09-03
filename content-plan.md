@@ -22,16 +22,15 @@ Slides 5-7
 
 03 / RESILIENCE
 Failure + experience
-Recovery, security, customer clarity
+Recovery and customer clarity
 COVERAGE
-Slides 8-10
+Slides 8-9
 
 04 / DELIVERY
 Roadmap + launch
 Vertical slices, evidence, next move
 COVERAGE
-Slides 11-13
+Slides 10-12
 
 Footer section: PRESENTATION MAP
 Footer page: 02
-
